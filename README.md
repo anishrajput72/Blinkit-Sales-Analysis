@@ -1,7 +1,8 @@
 # Blinkit - India's Last Minute App Dashboard
-Overview
+## Overview
 This repository hosts an interactive data dashboard for "Blinkit - India's Last Minute App". The dashboard provides key insights into sales, outlet performance, product categories, and customer ratings, helping to understand business trends and make data-driven decisions.
- Features
+
+## 🌟 Features
 The dashboard provides a comprehensive view of various aspects of Blinkit's operations, including:
 
 Total Sales & Average Sales: Quick glance at overall revenue and average sales figures.
@@ -22,22 +23,30 @@ Outlet Type Performance: Provides a summary of performance metrics (Total Sales,
 
 Interactive Filters: Allows users to filter data by Outlet Location Type, Outlet Size, and Item Type for customized analysis.
 
-📌 Tech Stack
-Power BI Desktop
-CSV Files as Data Source
-DAX for calculated columns and measures
-📂 Files Included
-Blinkit_Analysis.pbix - Power BI dashboard project file & BlinkIT Grocery Data.csv - The primary dataset used for building the dashboard, containing all raw sales, item, and outlet information.
+## 📌 Tech Stack
 
-🚀 How to Use
-1️⃣ Download or clone this repository
-2️⃣ Open Blinkit_Analysis.pbix using Power BI Desktop
-3️⃣ Ensure all CSV files are in the same folder (or update data source paths)
-4️⃣ Click Refresh to load the latest data
+- Power BI Desktop  
+- CSV Files as Data Source  
+- DAX for calculated columns and measures
+
+## 📂 Files Included
+
+
+**Blinkit_Analysis.pbix** 	-  Power BI dashboard project file &  **BlinkIT Grocery Data.csv**  -  The primary dataset used for building the dashboard, containing all raw sales, item, and outlet information.
+
+## 🚀 How to Use
+
+1️⃣ Download or clone this repository  
+2️⃣ Open `Blinkit_Analysis.pbix` using **Power BI Desktop**  
+3️⃣ Ensure all CSV files are in the same folder (or update data source paths)  
+4️⃣ Click **Refresh** to load the latest data  
 5️⃣ Explore and interact with filters, visuals, and KPIs for insights
 
-✨ About
-Created by Jisha George as part of Power BI learning and practice projects for Data Analyst roles.
+## ✨ About
+
+Created by **Jisha George** as part of Power BI learning and practice projects for Data Analyst roles.  
 Feel free to fork, reuse, or build upon this project — credits appreciated!
 
-Happy Analyzing! 🚀
+---
+
+**Happy Analyzing! 🚀**
